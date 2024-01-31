@@ -1,4 +1,4 @@
-# zkSync Era: Welcome to zkSync Hardhat plugins repository
+# zkSync Era: Welcome to zkSync Hardhat plugins repository 
 
 ![Era Logo](https://github.com/matter-labs/era-contracts/raw/main/eraLogo.svg)
 
